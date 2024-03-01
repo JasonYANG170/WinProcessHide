@@ -2,7 +2,7 @@
     <h1>WinProcessHide 应用进程隐藏</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/WinProcessHide?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/WinProcessHide?style=for-the-badge">
-	<img src="https://img.shields.io/github/languages/count/JasonYANG170/WinProcessHide?logo=python&style=for-the-badge">
+	<img src="https://img.shields.io/github/languages/count/JasonYANG170/WinProcessHide?logo=windows&style=for-the-badge">
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
