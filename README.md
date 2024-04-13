@@ -12,6 +12,11 @@
 <br>
 
 </div>
+## 适用于
+WINDOWS 7  
+WINDOWS 8  
+WINDOWS 10  
+WINDOWS 11  
 
 ## 原理
 该隐藏思路是通过开启电脑内核调试功能，使用WinDbg从系统内核修改应用唯一的EPROCESS结构，从EPROCESS修改pid实现系统内核内隐藏应用进程，使得任何进程检测应用均无法检测。
