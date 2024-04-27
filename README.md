@@ -66,3 +66,7 @@ WINDOWS 11
 8.输入 **ed 8241d490+0x440 abcd** 其中abcd是你想伪装的应用16进制Pid号，回车即可
 ### 🎖️验证
 9.重复第6步查看是否修改成功，打开任务管理器检查，此时应用已经被隐藏，在任何检测软件中都是不可见的
+
+## 喜欢这个项目，请为我点个Star ⭐ 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/WinProcessHide&type=Date)](https://star-history.com/#star-history/star-history&Date)
