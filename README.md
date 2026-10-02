@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 <div align="center">
     <h1>WinProcessHide 应用进程隐藏</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/WinProcessHide?label=License&style=for-the-badge">
